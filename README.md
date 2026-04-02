@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Smriti</h1>
 <h3 align="center">A Computer Science and Data Science Student At UC Berkeley</h3>
 
-- 🔭 I’m currently working on **Spenderella, an ai-finance platform to help people keep track of their finances**
+- 🔭 I’m currently working on **Escape IKEA, a puzzle game built with Unity and C#**
 
-- 🌱 I’m currently learning **about Production Engineering**
+- 🌱 I’m currently learning **about Computer Architecture**
 
 - 📫 How to reach me **smriti_rangarajan@berkeley.edu**
 
